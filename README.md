@@ -22,4 +22,4 @@ Connect 4 Challenge is a classic two-player board game built with HTML, CSS, and
 
 ## Clone the repository
    ```bash
-   git clone https://github.com/yourusername/connect4-challenge.git
+   git clone https://github.com/payalsahu1303/Connect-4-Challenge.git
