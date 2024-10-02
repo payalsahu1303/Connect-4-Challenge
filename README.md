@@ -13,6 +13,7 @@ Connect 4 Challenge is a classic two-player board game built with HTML, CSS, and
 - **Responsive UI**: Designed for a seamless experience across different screen sizes.
 - **Start and restart options**: Easy to start and restart the game with a click of a button.
 - **Simple, intuitive controls**: Click on a grid box to place your piece.
+- **Deployment**: Deployed in Netlify with link [Connect 4 Challenge](https://connect-4-challenge.netlify.app/)
 
 ## Technologies Used
 
